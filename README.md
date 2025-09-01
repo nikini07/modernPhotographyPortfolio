@@ -251,10 +251,6 @@ code .
 # Open index.html in browser to test changes
 ```
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## Showcase
 
 If you use this template for your portfolio, we'd love to see it! Share your creation by:
@@ -262,13 +258,6 @@ If you use this template for your portfolio, we'd love to see it! Share your cre
 - Tagging us on social media
 - Adding your site to our showcase section
 
-## Connect
-
-Created by **Nikini Fernando**
--  Portfolio: [your-portfolio-url]
--  Email: nikiniwarnakula@gmail.com
--  LinkedIn: [your-linkedin]
--  Instagram: [your-instagram]
 
 ---
 
