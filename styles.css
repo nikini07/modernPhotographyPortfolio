@@ -525,3 +525,37 @@ cursor-dot {
     opacity: 1;
     transform: translateY(0);
 }
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .nav {
+        padding: 15px 25px;
+    }
+
+    .nav-menu {
+        gap: 20px;
+    }
+
+    .about-container,
+    .contact-container {
+        grid-template-columns: 1fr;
+        gap: 50px;
+    }
+
+    .portfolio-grid {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+
+    .hero,
+    .about,
+    .portfolio,
+    .contact {
+        padding: 80px 25px;
+    }
+
+    .cursor,
+    .cursor-dot {
+        display: none;
+    }
+}
