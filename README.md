@@ -5,14 +5,14 @@ A stunning, modern portfolio website template designed for photographers, UI/UX 
 
 ##  Features
 
-- ** Modern Design**: Contemporary UI with glassmorphism effects and gradient backgrounds
-- ** Fully Responsive**: Optimized for desktop, tablet, and mobile devices
-- ** Smooth Animations**: Custom cursor, parallax effects, and scroll-triggered animations
-- ** Sophisticated Color Scheme**: Professional black, white, and olive green palette
-- ** Performance Optimized**: Fast loading with efficient CSS and JavaScript
-- ** Accessible**: Semantic HTML and keyboard navigation support
-- ** Contact Form**: Functional contact form with validation
-- ** Social Integration**: Easy social media links setup
+- **Modern Design**: Contemporary UI with glassmorphism effects and gradient backgrounds
+- **Fully Responsive**: Optimized for desktop, tablet, and mobile devices
+- **Smooth Animations**: Custom cursor, parallax effects, and scroll-triggered animations
+- **Sophisticated Color Scheme**: Professional black, white, and olive green palette
+- **Performance Optimized**: Fast loading with efficient CSS and JavaScript
+- **Accessible**: Semantic HTML and keyboard navigation support
+- **Contact Form**: Functional contact form with validation
+- **Social Integration**: Easy social media links setup
 
 
 ##  Quick Start
@@ -39,7 +39,7 @@ A stunning, modern portfolio website template designed for photographers, UI/UX 
 2. Extract to your desired location
 3. Open `index.html` in your browser
 
-## ⚙️ Customization
+## Customization
 
 ### 1. Personal Information
 Edit `index.html` and replace:
@@ -138,7 +138,7 @@ Want different colors? Edit the CSS variables in `styles.css`:
 --accent-sage: #f97316;
 ```
 
-## 📁 File Structure
+## File Structure
 
 ```
 modern-photography-portfolio/
@@ -183,11 +183,11 @@ modern-photography-portfolio/
 
 ## Browser Support
 
-- ✅ Chrome/Chromium 60+
-- ✅ Firefox 55+
-- ✅ Safari 12+
-- ✅ Edge 79+
-- ✅ Mobile browsers (iOS Safari, Chrome Mobile)
+- Chrome/Chromium 60+
+- Firefox 55+
+- Safari 12+
+- Edge 79+
+- Mobile browsers (iOS Safari, Chrome Mobile)
 
 ## Customization Tips
 
