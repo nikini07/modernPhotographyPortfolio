@@ -24,3 +24,27 @@ body {
     color: var(--text-dark);
     overflow-x: hidden;
 }
+
+/* Cursor */
+.cursor {
+    width: 20px;
+    height: 20px;
+    border: 2px solid var(--accent);
+    border-radius: 50%;
+    position: fixed;
+    pointer-events: none;
+    z-index: 9999;
+    transition: all 0.1s ease;
+    backdrop-filter: blur(10px);
+}
+
+cursor-dot {
+    width: 4px;
+    height: 4px;
+    background: var(--accent);
+    border-radius: 50%;
+    position: fixed;
+    pointer-events: none;
+    z-index: 10000;
+    transition: all 0.1s ease;
+}
